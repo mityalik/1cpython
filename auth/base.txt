@@ -1,0 +1,12 @@
+
+Admin1,19,Admin,12345,1
+Admin2,19,Admin2,12345,1
+Sklad2,19,Sklad,12345,2
+cust,19,cust,12345,3
+cust2,19,cust,12345,3
+Adminis,19,Adminis,12345,1
+Skladik,19,sss,12345,2
+customer,1929,121,12345,3
+admin3,21,OlegKakoy,12345,1
+sklad4,123,123,12345,2
+customer2,123,123,12345,3
